@@ -1272,7 +1272,7 @@ nav .navbar ul li:hover a{
     justify-content: center;
     align-items: center;
     padding: 20px 5%;
-    background-color: var(--secondary-color);
+    background: linear-gradient(45deg , var(--main-color) , var(--secondary-color));
    }
    .bottom-footer p{
     color: #000000;
